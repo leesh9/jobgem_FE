@@ -388,6 +388,14 @@ export default function PostingForm({ params }) {
             alert('근무요일을 선택해주세요');
             return;
         }
+        if(workStartTime.hour==0&&workStartTime.minute==0){
+            alert("근무시간을 선택해 주세요");
+            return;
+        }
+        if(workEndTime.hour==0&&workEndTime.minute==0){
+            alert("근무시간을 선택해 주세요");
+            return;
+        }
         if(selectedSkill.length === 0) {
             alert('필요스킬을 선택해주세요');
             return;
