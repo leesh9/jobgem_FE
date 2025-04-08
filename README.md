@@ -92,12 +92,6 @@ npm install
 npm run dev
 ```
 
-### 백엔드 & DB 실행 (Docker 기반)
-
-```bash
-docker-compose up --build
-```
-
 ---
 
 ## 🎬 시연 영상 및 문서
