@@ -103,7 +103,7 @@ docker-compose up --build
 ## 🎬 시연 영상 및 문서
 
 - 📽️ [프로젝트 시연 영상](https://drive.google.com/drive/folders/10YdCzEgJQF6BDeId5s7Nwq9wmyPz1CVa?usp=drive_link)
-- 💻 [프론트엔드 GitHub 저장소](https://github.com/leesh9/jobgem_FE/tree/develop)
+- 💻 [백엔드 GitHub 저장소](https://github.com/leesh9/jobgem/tree/develop)
 
 ---
 
