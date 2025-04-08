@@ -88,8 +88,6 @@
 ### 프론트엔드 실행
 
 ```bash
-git clone https://github.com/leesh9/jobgem_FE.git
-cd jobgem_FE
 npm install
 npm run dev
 ```
