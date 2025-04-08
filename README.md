@@ -1,11 +1,5 @@
 # 💼 JobGem - 개발자 채용 플랫폼
 
-![badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white")
-![badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black")
-![badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white")
-![badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white")
-![badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white")
-
 ---
 
 ## 📌 프로젝트 소개
